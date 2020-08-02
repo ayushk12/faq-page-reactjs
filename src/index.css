@@ -23,7 +23,7 @@ header {
   justify-content: center;
   align-content: center;
   padding: 15px;
-  background-color: #3c3c3c;
+  background-color: rgb(0, 38, 77);
   border-bottom: 3px solid #56e3b8;
 }
 
@@ -44,7 +44,7 @@ header h1 {
 .faqs .faq {
   margin: 15px;
   padding: 15px;
-  background-color: #fff;
+  background-color: rgb(255, 255, 128);
   border-radius: 8px;
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
 }
